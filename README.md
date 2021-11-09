@@ -1,9 +1,9 @@
 # SKY WEATH
 
 [![GitHub issues](https://img.shields.io/github/issues/FurkanYildirim/Sky-Weath)](https://github.com/FurkanYildirim/Sky-Weath/issues)
-https://img.shields.io/github/forks/FurkanYildirim/Sky-Weath
-https://img.shields.io/github/stars/FurkanYildirim/Sky-Weath
-https://img.shields.io/github/license/FurkanYildirim/Sky-Weath
+[![GitHub forks](https://img.shields.io/github/forks/FurkanYildirim/Sky-Weath)](https://github.com/FurkanYildirim/Sky-Weath/network)
+[![GitHub stars](https://img.shields.io/github/stars/FurkanYildirim/Sky-Weath)](https://github.com/FurkanYildirim/Sky-Weath/stargazers)
+[![GitHub license](https://img.shields.io/github/license/FurkanYildirim/Sky-Weath)](https://github.com/FurkanYildirim/Sky-Weath)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
