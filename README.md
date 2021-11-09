@@ -1,6 +1,6 @@
 # SKY WEATH
 
-https://img.shields.io/github/issues/FurkanYildirim/Sky-Weath
+[![GitHub issues](https://img.shields.io/github/issues/FurkanYildirim/Sky-Weath)](https://github.com/FurkanYildirim/Sky-Weath/issues)
 https://img.shields.io/github/forks/FurkanYildirim/Sky-Weath
 https://img.shields.io/github/stars/FurkanYildirim/Sky-Weath
 https://img.shields.io/github/license/FurkanYildirim/Sky-Weath
