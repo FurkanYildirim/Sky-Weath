@@ -1,5 +1,11 @@
 # SKY WEATH
 
+https://img.shields.io/github/issues/FurkanYildirim/Sky-Weath
+https://img.shields.io/github/forks/FurkanYildirim/Sky-Weath
+https://img.shields.io/github/stars/FurkanYildirim/Sky-Weath
+https://img.shields.io/github/license/FurkanYildirim/Sky-Weath
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
