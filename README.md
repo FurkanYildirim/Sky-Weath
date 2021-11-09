@@ -1,6 +1,4 @@
 # SKY WEATH
-## Catch Your Weather!
-![Sky Weath Logo](https://icon-library.com/icon/weather-app-icon-20.html.html)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
